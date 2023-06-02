@@ -25,7 +25,7 @@ class Speedometer extends Component {
     const {count} = this.state
     return (
       <div className="container">
-        <p className="heading">SPEEDOMETER</p>
+        <h1 className="heading">SPEEDOMETER</h1>
         <img
           className="image"
           alt="speedometer"
